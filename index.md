@@ -1,6 +1,7 @@
 ## Welcome to my page for STATS 506 Statistical Computing
 
-
+### Homework 1 STATA
+1. [Problem 1a](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1a.do) uses STATA to convert data between long and wide format. [Problem 1b](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1b.do) and [Problem 1c](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1c.do) use STATA to perform logistic and robust regression. 
 
 ### Homework 2 dplyr, multidimensional scaling, and Monte Carlo
 1. [Problem 1](https://pengyunbin.github.io/stats506/hw2_q1) uses **dplyr package** to analysize RECS data about roof types of residential building in different states. 
