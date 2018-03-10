@@ -20,6 +20,7 @@
 ### Assgignment 4 SAS, SQL and parallel computing
 
 ### Individual Project: Analysis of Los Angeles Business
+1. Geographic Distribution of Businesses in Los Angeles [report](https://jbhender.github.io/stats506/Project_Question_1_final.pdf) & [code](https://jbhender.github.io/stats506/Project_Question_1_code_final.R)
 
 ### Group Project 
 [Tutorial of K-means with visualization and performance evaluation in R, Python and STATA](https://pengyunbin.github.io/stats506/Group%203%20Project%20Final.html)
