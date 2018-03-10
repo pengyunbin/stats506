@@ -3,8 +3,9 @@
 
 
 ### Homework 2 dplyr, multidimensional scaling, and Monte Carlo
-
-
+1. [Problem 1](https://pengyunbin.github.io/stats506/hw2_q1) uses **dplyr package** to analysize RECS data about roof types of residential building in different states. 
+2. [Problem 2](https://pengyunbin.github.io/stats506/hw2_q2) performs **text cleaning and multidimensional scaling** on a study of interaction between animals. 
+3. [Problem 3](https://pengyunbin.github.io/stats506/hw2_q3) uses **Monte Carlo simulation** to estimate \pi.
 
 ## Welcome to GitHub Pages
 
