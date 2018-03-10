@@ -21,6 +21,7 @@
 
 ### Individual Project: Analysis of Los Angeles Business
 1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_1_code_final.R)
+2. What are declining and evergreen businesses in LA? [report](https://github.com/pengyunbin/stats506/Project_Question_2_Final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_2_final_code.R)
 
 ### Group Project 
 [Tutorial of K-means with visualization and performance evaluation in R, Python and STATA](https://pengyunbin.github.io/stats506/Group%203%20Project%20Final.html)
