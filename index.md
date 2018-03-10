@@ -1,6 +1,11 @@
 ## Welcome to my page for STATS 506 Statistical Computing
 
 
+
+### Homework 2 dplyr, multidimensional scaling, and Monte Carlo
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pengyunbin/Statistics506/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
