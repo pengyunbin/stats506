@@ -22,4 +22,4 @@
 ### Individual Project: Analysis of Los Angeles Business
 
 ### Group Project 
-[Tutorial of K-means with visualization and performance evaluation in R, Python and STATA](https://jbhender.github.io/Stats506/Projects/G3.html)
+[Tutorial of K-means with visualization and performance evaluation in R, Python and STATA](https://pengyunbin.github.io/stats506/Group%203%20Project%20Final.html)
