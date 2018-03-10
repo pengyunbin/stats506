@@ -18,6 +18,7 @@
 
 
 ### Assgignment 4 SAS, SQL and parallel computing
+[Assignment 4 Instruction](https://jbhender.github.io/Stats506/ProblemSet4.html)
 
 ### Individual Project: Analysis of Los Angeles Business
 1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_1_code_final.R)
