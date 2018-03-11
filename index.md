@@ -4,7 +4,7 @@
 [Assignment 1 Instruction](https://jbhender.github.io/Stats506/ProblemSet1.html)
 1. [Problem 1a](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1a.do) uses STATA to convert data between long and wide format. [Problem 1b](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1b.do) and [Problem 1c](https://github.com/pengyunbin/stats506/blob/master/hw1_problem1c.do) use STATA to perform logistic and robust regression. 
 2. [Problem 2](https://github.com/pengyunbin/stats506/blob/master/hw1_problem_2.do) uses STATA to perform data analysis on RECS dataset, I will use other computing languages to perform the same analysis in subsequent assignments (dplyr in Assignment 2, data.table in Assignment 3). 
-3. [Problem 3](https://github.com/pengyunbin/stats506/blob/master/hw1_problem_3.do) uses STATA to analysis National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (Note: This data set will be used again in Assignment 4 but with SAS)
+3. [Problem 3](https://github.com/pengyunbin/stats506/blob/master/hw1_problem_3.do) uses STATA to analyze National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (Note: This data set will be used again in Assignment 4 but with SAS)
 
 ### Assignment 2 R: dplyr, multidimensional scaling, and Monte Carlo
 [Assignment 2 Instruction](https://jbhender.github.io/Stats506/ProblemSet2.html)
@@ -23,10 +23,15 @@
 
 ### Assgignment 4 SAS, SQL and parallel computing
 [Assignment 4 Instruction](https://jbhender.github.io/Stats506/ProblemSet4.html)
+1. [Problem 1] uses **SAS** to analyze National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (this is similar to Assignment 1 Problem 3).
+2. [Problem 2] uses **lme4** package from R to run mixed model on NHANES data. 
+3. [Problem 3] uses SAS to run **SQL** to analyze US medicare payment data. 
+4. [Problem 4] uses **parallel computing** on Flux (University of Michigan high-performance computing cluster) to estimate out-of-sample prediction error using cross-validation in R. 
 
 ### Individual Project: Analysis of Los Angeles Business
 1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_1_code_final.R)
 2. What are declining and evergreen businesses in LA? [report](https://pengyunbin.github.io/stats506/Project_Question_2_Final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_2_final_code.R)
+
 
 ### Group Project 
 [Tutorial of K-means with visualization and performance evaluation in R, Python and STATA](https://pengyunbin.github.io/stats506/Group%203%20Project%20Final.html)  
