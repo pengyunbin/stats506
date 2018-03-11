@@ -15,10 +15,10 @@
 
 ### Assignment 3 R: data.table package, and visualization
 [Assignment 3 Instruction](https://jbhender.github.io/Stats506/ProblemSet3.html)
-1. [Problem 1](https://pengyunbin.github.io/stats506/hw3_problem1.html)
-2. [Problem 2](https://pengyunbin.github.io/stats506/hw3_problem2.html)
-3. [Problem 3](https://pengyunbin.github.io/stats506/hw3_problem3.html)
-4. [Problem 4](https://pengyunbin.github.io/stats506/hw3_problem4.html)
+1. [Problem 1](https://pengyunbin.github.io/stats506/hw3_problem1.html) uses **data.table** package in R in accomplish the same task as Problem 1 of Assignment 2.
+2. [Problem 2](https://pengyunbin.github.io/stats506/hw3_problem2.html) uses **data.table** package to analyze flight data of New York City major airports via **split-apply-combine** approach. 
+3. [Problem 3](https://pengyunbin.github.io/stats506/hw3_problem3.html) uses R **rvest** package for web scraping to get distance between major airports in the US.  
+4. [Problem 4](https://pengyunbin.github.io/stats506/hw3_problem4.html) uses ggmap function in ggplot2 package to produce visualization of flight between major airports in the US.
 
 
 ### Assgignment 4 SAS, SQL and parallel computing
