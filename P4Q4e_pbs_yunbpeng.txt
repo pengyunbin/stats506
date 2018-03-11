@@ -1,0 +1,22 @@
+#!/bin/sh
+####  PBS preamble
+
+#PBS -N PS4Q4
+
+#PBS -M yunbpeng@umich.edu
+#PBS -m abe
+
+# Change the number of cores (ppn=1), amount of memory, and walltime:
+#PBS -l nodes=1:ppn=4,mem=2000mb,walltime=01:00:00
+#PBS -j oe
+#PBS -V
+
+#PBS -A stats_flux
+#PBS -q flux
+#PBS -l qos=flux
+#PBS -t 1-4
+
+####  End PBS preamble
+module load R
+
+Rscript /home/yunbpeng/Question4.R n_fold=10**${PBS_ARRAYID}  n_core=4 > /home/yunbpeng/Question4e.Rout.${PBS_ARRAYID}
