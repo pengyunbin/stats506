@@ -23,9 +23,9 @@
 
 ### Assgignment 4 SAS, SQL and parallel computing
 [Assignment 4 Instruction](https://jbhender.github.io/Stats506/ProblemSet4.html)
-1. [Problem 1] uses **SAS** to analyze National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (this is similar to Assignment 1 Problem 3).
+1. [Problem 1](https://pengyunbin.github.io/stats506/PS4_Question_1.pdf) uses **SAS** to analyze National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (this is similar to Assignment 1 Problem 3).
 2. [Problem 2] uses **lme4** package from R to run mixed model on NHANES data. 
-3. [Problem 3] uses SAS to run **SQL** to analyze US medicare payment data. 
+3. [Problem 3](https://pengyunbin.github.io/stats506/PS4_Question_3.pdf) uses SAS to run **SQL** to analyze US medicare payment data. 
 4. [Problem 4] uses **parallel computing** on Flux (University of Michigan high-performance computing cluster) to estimate out-of-sample prediction error using cross-validation in R. 
 
 ### Individual Project: Analysis of Los Angeles Business
