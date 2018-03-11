@@ -26,7 +26,7 @@
 1. [Problem 1](https://pengyunbin.github.io/stats506/PS4_Question_1.pdf) uses **SAS** to analyze National Health and Nutrition Examination Survey (NHANES) dataset, in particular how different demographic groups may have different results in audiometry test. (this is similar to Assignment 1 Problem 3).
 2. [Problem 2] uses **lme4** package from R to run mixed model on NHANES data. 
 3. [Problem 3](https://pengyunbin.github.io/stats506/PS4_Question_3.pdf) uses SAS to run **SQL** to analyze US medicare payment data. 
-4. [Problem 4] uses **parallel computing** on Flux (University of Michigan high-performance computing cluster) to estimate out-of-sample prediction error using cross-validation in R. [PBS script1] [PBS script2]
+4. [Problem 4] uses **parallel computing** on Flux (University of Michigan high-performance computing cluster) to estimate out-of-sample prediction error using cross-validation in R. [PBS script1](https://pengyunbin.github.io/stats506/P4Q4d_pbs_yunbpeng.txt) [PBS script2](https://pengyunbin.github.io/stats506/P4Q4e_pbs_yunbpeng.txt)
 
 ### Individual Project: Analysis of Los Angeles Business
 1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/Project_Question_1_code_final.R)
