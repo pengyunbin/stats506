@@ -1,6 +1,6 @@
-## A mini project with Los Angeles Business Data
+## Analysis of Los Angeles Business 
 
-## Data used from Los Angeles Open Data (https://data.lacity.org/)
+## Data used from Los Angeles Open Data Portal (https://data.lacity.org/)
 [Listing of Active Businesses](https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua) <br />
 [Business Closures 20130701 - Present](https://data.lacity.org/A-Prosperous-City/Business-Closures-20130701-Present/sg5j-gp4v)  
 
