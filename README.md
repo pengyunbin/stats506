@@ -29,8 +29,8 @@
 4. [Problem 4](https://pengyunbin.github.io/stats506/hw4_question_4) uses **parallel computing** on Flux (University of Michigan high-performance computing cluster) to estimate out-of-sample prediction error using cross-validation in R. [PBS script1](https://pengyunbin.github.io/stats506/P4Q4d_pbs_yunbpeng.txt) [PBS script2](https://pengyunbin.github.io/stats506/P4Q4e_pbs_yunbpeng.txt)
 
 ### Individual Project: Analysis of Los Angeles Business
-1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/LA_Project/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/LA_Project/Project_Question_1_code_final.R)
-2. What are declining and evergreen businesses in LA? [report](https://pengyunbin.github.io/stats506/LA_Project/Project_Question_2_Final.pdf) & [code](https://github.com/pengyunbin/stats506/LA_Project/Project_Question_2_final_code.R)
+1. Geographic Distribution of Businesses in Los Angeles [report](https://pengyunbin.github.io/stats506/LA_Project/Project_Question_1_final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/LA_Project/Project_Question_1_code_final.R)
+2. What are declining and evergreen businesses in LA? [report](https://pengyunbin.github.io/stats506/LA_Project/Project_Question_2_Final.pdf) & [code](https://github.com/pengyunbin/stats506/blob/master/LA_Project/Project_Question_2_code_final.R)
 
 
 ### Group Project
